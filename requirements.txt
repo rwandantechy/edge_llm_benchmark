@@ -1,0 +1,5 @@
+pyyaml
+psutil
+requests
+pydantic
+pandas
